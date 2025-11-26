@@ -1,3 +1,16 @@
+🐣 Hey sweet coder!
+
+Just a tiny heads-up: the `lib/` folder is ignored (so dependencies are not committed).  
+After you clone the repo, please run the following to fetch the required libs:
+
+    # fetch dependencies listed in the repo
+    forge install
+
+If you’re starting from scratch, you can also initialize a Foundry project with:
+
+    forge init
+
+Happy hacking! ✨🛠️
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
