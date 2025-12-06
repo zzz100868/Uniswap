@@ -65,7 +65,6 @@ $ anvil --help
 $ cast --help
 ```
 
-### PACKAGE
-```shell
-Packages that need to be downloaded by oneself：foundry-rs/forge-std
+```text
+Packages that need to be downloaded by oneself: foundry-rs/forge-std
 ```
