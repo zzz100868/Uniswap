@@ -62,8 +62,6 @@ $ cast <subcommand>
 ```shell
 $ forge --help
 $ anvil --help
-
-##Packages that need to be downloaded by oneself:foundry-rs/forge-std
 $ cast --help
 ```
 
