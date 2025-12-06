@@ -1,4 +1,3 @@
-  **Packages that need to be downloaded by oneself：foundry-rs/forge-std
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -63,5 +62,12 @@ $ cast <subcommand>
 ```shell
 $ forge --help
 $ anvil --help
+
+##Packages that need to be downloaded by oneself：foundry-rs/forge-std
 $ cast --help
+```
+
+### PACKAGE
+```
+Packages that need to be downloaded by oneself：foundry-rs/forge-std
 ```
